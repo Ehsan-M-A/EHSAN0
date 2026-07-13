@@ -1,0 +1,6 @@
+{
+  "name": "مساعد القراءة والنطق للأندرويد",
+  "description": "تطبيق تفاعلي لمساعدة كبار السن في تفعيل واستخدام ميزات قراءة النصوص وتحويل الصوت إلى كلام على أجهزة أندرويد مع أداة محاكاة متكاملة.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

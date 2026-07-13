@@ -1,0 +1,22 @@
+{
+  "name": "مساعد القراءة والنطق للأندرويد",
+  "short_name": "مساعد النطق",
+  "description": "تطبيق تفاعلي لمساعدة كبار السن في تفعيل واستخدام ميزات قراءة النصوص وتحويل الصوت إلى كلام على أجهزة أندرويد",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#4A6741",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ]
+}
